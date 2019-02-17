@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrueCallerChallenge</string>
+
+    <string name="string_a">10th character is: \'%s\'</string>
+    <string name="exception">Exception: %s</string>
+    <string name="helper_text_action_submit">To make request tap Submit button</string>
+    <string name="submit">Submit</string>
+    <string name="try_again">Try again</string>
+</resources>
